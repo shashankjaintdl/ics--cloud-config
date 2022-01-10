@@ -5,3 +5,7 @@ ics-security:
       clientId: B@2542def9
       clientSecret: sjain
       tokenInfoUri: http://localhost:8200/oauth/check_token
+      
+eureka:
+  client:
+    enabled: true
