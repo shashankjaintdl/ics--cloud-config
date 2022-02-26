@@ -4,7 +4,7 @@ ics-security:
       resourceId: ICS-RESOURCE-SERVER
       clientId: B@2542def9
       clientSecret: sjain
-      tokenInfoUri: https://localhost:8200/oauth/check_token
+      tokenInfoUri: http://localhost:8200/oauth/check_token
       
 eureka:
   client:
